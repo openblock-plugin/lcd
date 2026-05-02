@@ -1,0 +1,3 @@
+[submodule "libraries/Arduino-LiquidCrystal-I2C-library"]
+	path = libraries/Arduino-LiquidCrystal-I2C-library
+	url = https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library.git
